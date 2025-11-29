@@ -3969,6 +3969,23 @@ span.counter {
 /* 20. Estimated Price End */
 
 /* 21. Contact Us Start */
+
+/* Add space below FAQ section */
+.contact-faqs {
+    padding-bottom: 50px;
+    /* space below FAQs */
+}
+
+/* Add space above Map section */
+.contact-map-section {
+    padding-top: 50px;
+    /* space above map */
+}
+
+.contact-faqs {
+    margin-bottom: 60px !important;
+}
+
 .contact-us .heading h2 {
     width: 30%;
 }
