@@ -1197,6 +1197,11 @@ button.scrollTopStick:hover i {
 /* 2. Service Style One End */
 
 /* 3. About Style One Start */
+.about-style-one {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
 .about-style-one .about-data-left {
     padding-top: 60px;
     display: flex;

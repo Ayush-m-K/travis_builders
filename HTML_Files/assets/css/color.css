@@ -1,5 +1,6 @@
 :root {
-    --main-theme: #ffee04;
+    /* --main-theme: #ffee04; */
+    --main-theme: red;
 }
 
 /*Color for svg*/
